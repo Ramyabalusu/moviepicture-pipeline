@@ -1,0 +1,5 @@
+setup/terraform/.terraform/
+*.tfstate
+*.tfstate.backup
+set_aws_creds.sh
+**/set_aws_creds.sh
